@@ -49,17 +49,18 @@ The system is built using pure SQL and demonstrates advanced database concepts i
 
 ## 📁 Project Structure
 food-ordering-sql-project
-  |-- schema.sql → Database structure
+
+    |-- schema.sql → Database structure
   
-  |-- sample_data.sql → Test data (50+ records)
+    |-- sample_data.sql → Test data (50+ records)
   
-  |-- queries.sql → Basic & advanced queries
+    |-- queries.sql → Basic & advanced queries
   
-  |-- views.sql → Reporting views
+    |-- views.sql → Reporting views
   
-  |-- triggers.sql → Automation logic
+    |-- triggers.sql → Automation logic
   
-  |-- procedures.sql → Stored procedures
+    |-- procedures.sql → Stored procedures
 
 
 
