@@ -48,14 +48,13 @@ The system is built using pure SQL and demonstrates advanced database concepts i
 ---
 
 ## 📁 Project Structure
-food-ordering-sql-project/
-│
-├── schema.sql → Database structure
-├── sample_data.sql → Test data (50+ records)
-├── queries.sql → Basic & advanced queries
-├── views.sql → Reporting views
-├── triggers.sql → Automation logic
-├── procedures.sql → Stored procedures
+food-ordering-sql-project
+  |-- schema.sql → Database structure
+  |-- sample_data.sql → Test data (50+ records)
+  |-- queries.sql → Basic & advanced queries
+  |-- views.sql → Reporting views
+  |-- triggers.sql → Automation logic
+  |-- procedures.sql → Stored procedures
 
 
 
@@ -112,14 +111,14 @@ food-ordering-sql-project/
 2. Run [sample_data.sql](https://github.com/user-attachments/files/25710062/sample_data.sql)
 
 3. Execute queries from [queries.sql](https://github.com/user-attachments/files/25710127/queries.sql)
-`
+
 4. Run [views.sql](https://github.com/user-attachments/files/25710096/views.sql)
-`
+
 5. Run [triggers.sql](https://github.com/user-attachments/files/25710103/triggers.sql)
-`
+
 6. Run [procedures.sql](https://github.com/user-attachments/files/25710104/procedures.sql)
-`
-`
+
+
 
 ---
 
