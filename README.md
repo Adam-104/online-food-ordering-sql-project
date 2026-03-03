@@ -56,7 +56,6 @@ food-ordering-sql-project/
 ├── views.sql → Reporting views
 ├── triggers.sql → Automation logic
 ├── procedures.sql → Stored procedures
-└── README.md
 
 
 
@@ -111,14 +110,15 @@ food-ordering-sql-project/
 1. Run [schema.sql](https://github.com/user-attachments/files/25710046/schema.sql)
 
 2. Run [sample_data.sql](https://github.com/user-attachments/files/25710062/sample_data.sql)
+
+3. Execute queries from [queries.sql](https://github.com/user-attachments/files/25710127/queries.sql)
 `
-3. Run [views.sql](https://github.com/user-attachments/files/25710096/views.sql)
+4. Run [views.sql](https://github.com/user-attachments/files/25710096/views.sql)
 `
-4. Run [triggers.sql](https://github.com/user-attachments/files/25710103/triggers.sql)
+5. Run [triggers.sql](https://github.com/user-attachments/files/25710103/triggers.sql)
 `
-5. Run [procedures.sql](https://github.com/user-attachments/files/25710104/procedures.sql)
+6. Run [procedures.sql](https://github.com/user-attachments/files/25710104/procedures.sql)
 `
-6. Execute queries from [queries.sql](https://github.com/user-attachments/files/25710127/queries.sql)
 `
 
 ---
